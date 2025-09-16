@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+pandas
+pydantic
+joblib
+pywin32==311 ; sys_platform == 'win32'
